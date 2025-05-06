@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "625753930820",
+    "project_id": "codequest-7e54f",
+    "storage_bucket": "codequest-7e54f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625753930820:android:4fb6a24a55ff59d3971011",
+        "android_client_info": {
+          "package_name": "com.codeconquest.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxkc2icZW4-GOJFAdAxIe0YTVZPxAYMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625753930820:android:d24f4fdb35284e85971011",
+        "android_client_info": {
+          "package_name": "com.project.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxkc2icZW4-GOJFAdAxIe0YTVZPxAYMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
