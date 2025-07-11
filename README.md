@@ -1,16 +1,30 @@
-# finalprojects8
+CodeQuest: An Interactive Python Learning Platform
 
-A new Flutter project.
 
-## Getting Started
+Project Overview
 
-This project is a starting point for a Flutter application.
+CodeQuest is an innovative game-based learning platform designed to teach Python programming through interactive challenges and structured lessons. The platform adapts to users' skill levels, providing personalized learning paths from beginner to advanced concepts.
 
-A few resources to get you started if this is your first Flutter project:
+Key Features
+Adaptive Learning Paths: Users are assessed and placed at appropriate levels (Beginner, Intermediate, Advanced)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Interactive Games:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Python Hangman for terminology
+
+Drag-and-drop coding challenges
+
+Loop implementation exercises
+
+Progress Tracking: Firebase integration saves user progress and achievements
+
+Error Correction System: Limited attempts with cooldown period to encourage learning from mistakes
+
+Structured Curriculum: Covers Python fundamentals to advanced topics like OOP, NumPy, and algorithms
+
+Technology Stack
+Frontend: Flutter
+
+Backend: Firebase (Authentication, Realtime Database)
+
+Version Control: Git/GitHub
